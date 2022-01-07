@@ -15,3 +15,6 @@ html, css, javascript로 구현한 instagram 클론 프로젝트
 📍 한 줄의 의미 없는 코드를 사용하지 않는 걸 목표로 html, css 작성하기 - [html,css](https://kangdanne.tistory.com/111?category=1007555)<br/>
 📍 입력 조건 만족시 활성화 되는 버튼 js로 구현하기 - [Login page](https://kangdanne.tistory.com/113?category=1007555)<br/>
 📍 입력한 댓글을 목록에 추가하는 기능 js로 구현하기 - [Main page](https://kangdanne.tistory.com/114?category=1007555)<br/>
+<br/>
+<br/>
+![screenshot](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FOZoeL%2FbtreLKW5JSb%2FnknRsPXMdLsukUzT1uLsqk%2Fimg.png)
