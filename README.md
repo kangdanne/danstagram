@@ -17,4 +17,3 @@ html, css, javascript로 구현한 instagram 클론 프로젝트
 📍 입력한 댓글을 목록에 추가하는 기능 js로 구현하기 - [Main page](https://kangdanne.tistory.com/114?category=1007555)<br/>
 <br/>
 <br/>
-![screenshot](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FOZoeL%2FbtreLKW5JSb%2FnknRsPXMdLsukUzT1uLsqk%2Fimg.png)
